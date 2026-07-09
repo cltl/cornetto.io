@@ -1,0 +1,8 @@
+title: CORNETTO
+description: >
+  Cornetto: a Combinatorial and Relational Network as Toolkit for Dutch
+  Language Technology. A lexical semantic database for Dutch combining the
+  Referentie Bestand Nederlands and the Dutch Wordnet.
+markdown: kramdown
+exclude:
+  - README.md

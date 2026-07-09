@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/theme.css' | relative_url }}">
+</head>
+<body>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+      <nav class="site-nav" aria-label="Primary">
+        <ul>
+          {% for item in site.data.nav %}
+          <li{% if item.children %} class="has-children"{% endif %}>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% if item.children %}
+            <ul>
+              {% for child in item.children %}
+              <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <p>{{ site.title }} &mdash; archived static export.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -25,9 +25,6 @@ Project Proposal (PDF)
 **Cornetto version 2.0**  
 A new release of the Cornetto database is now available from the TST centrale: [Cornetto database at the TST centrale](http://www.inl.nl/tst-centrale/nl/producten/lexica/cornetto/7-56) Cornetto has been revised during the [DutchSemCor project](http://www2.let.vu.nl/oz/cltl/dutchsemcor/). DutchSemCor resulted in the annotation of the SONAR corpus with the meanings of the most frequent and polysemous words in Cornetto. The release of Cornetto 2.0 will be extended with word-sense-disambiguation systems that were developed during DutchSemCor.
 
-**Cornetto Demo**  
-Try the Cornetto client yourself and explore the content of the Cornetto database with our online Demo! [[Read more](/cornetto-demo/)]
-
 **For reference**  
 P.Vossen, I.Maks, R.Segers, H.van der Vliet, M-F.Moens, K.Hofmann, E.Tjong Kim Sang, and M.de Rijke. Cornetto: a Combinatorial Lexical Semantic Database for Dutch. Chapter 10 in: Spyns, Peter; Odijk, Jan (Eds.) Essential Speech and Language Technology for Dutch. Results by the STEVIN-programme. Series: Theory and Applications of Natural Language Processing, 2013, 2013, XVII.
 

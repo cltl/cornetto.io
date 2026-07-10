@@ -48,4 +48,4 @@ The research and development will be carried out by a consortium of Flemish and 
 
 * * *
 
-Last update: 22 October, 2008, p.vossen (at) let.vu.nl
+Last update: 22 October, 2008

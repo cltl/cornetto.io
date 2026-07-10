@@ -47,4 +47,4 @@ We appreciate your feedback on the Cornetto database at any stage of the project
 
 * * *
 
-Last update: 21 December, 2011 p.vossen(at)let.vu.nl
+Last update: 21 December, 2011

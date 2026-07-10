@@ -16,8 +16,8 @@ The following schema definitions as available for the data:
 - XSD for lexical units  
 - XSD for Cornetto identifiers  
 - XSD for the ontology  
-The most important document for the data is the final deliverable [D16 Cornetto documentation](deliverables/D16_Cornetto documentation \(V11\) v6.pdf).
+The most important document for the data is the final deliverable [D16 Cornetto documentation]({{ '/deliverables/D16_Cornetto documentation \(V11\) v6.pdf' | relative_url }}).
 
 * * *
 
-Last update: 22 January, 2009, p.vossen (at) let.vu.nl
+Last update: 22 January, 2009

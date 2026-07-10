@@ -34,6 +34,9 @@ P.Vossen, I.Maks, R.Segers, H.van der Vliet, M-F.Moens, K.Hofmann, E.Tjong Kim S
 **Sponsor**  
 [Nederlandse Taalunie](http://taalunieversum.org/taalunie)![NTU](/assets/uploads/2014/10/NTU.png)
 
+**Contact**  
+<a href="mailto:piek.vossen@vu.nl">piek.vossen@vu.nl</a>
+
 * * *
 
-Last update: 2 December, 2012, p.vossen(at)let.vu.nl
+Last update: 2 December, 2012

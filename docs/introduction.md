@@ -12,4 +12,4 @@ RBN is concept-based but also encodes the common word combinations that go with 
 
 * * *
 
-Last update: 22 October, 2008, p.vossen (at) let.vu.nl
+Last update: 22 October, 2008

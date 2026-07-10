@@ -21,4 +21,4 @@ Furthermore, Cornetto will include:
 
 Cornetto will be validated in Information Retrieval and Question Answering applications. The domain database will be evaluated by a user-group of companies that have specifically requested such a domain-tuned database.  
 ________________________________________  
-Last update: 22 October, 2008, p.vossen (at) let.vu.nl
+Last update: 22 October, 2008

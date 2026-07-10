@@ -36,4 +36,4 @@ P.Vossen, I.Maks, R.Segers, H.van der Vliet, M-F.Moens, K.Hofmann, E.Tjong Kim S
 
 * * *
 
-Last update: 2 December, 2012, p.vossen(at)let.vu.nl
+Last update: 2 December, 2012

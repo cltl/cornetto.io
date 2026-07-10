@@ -17,12 +17,12 @@ The Cornetto workshop at Free University was well-visited and interesting discus
 <tr>
 <td>9:30 - 10:30</td>
 <td>Project overview (Piek Vossen)</td>
-<td>Download slides: <a href="presentations/cornetto-workshop-2007-project-overview-vossen.pdf">PDF</a></td>
+<td>Download slides: <a href="{{ '/presentations/cornetto-workshop-2007-project-overview-vossen.pdf' | relative_url }}">PDF</a></td>
 </tr>
 <tr>
 <td>10:30 - 11:00</td>
 <td>Database design (Katja Hofmann)</td>
-<td>Download slides: <a href="presentations/cornetto-workshop-2007-database-design-hofmann.pdf">PDF</a></td>
+<td>Download slides: <a href="{{ '/presentations/cornetto-workshop-2007-database-design-hofmann.pdf' | relative_url }}">PDF</a></td>
 </tr>
 <tr>
 <td>11:00 - 11:15</td>
@@ -37,7 +37,7 @@ The Cornetto workshop at Free University was well-visited and interesting discus
     Nouns (Roxane Segers)
     Adjectives (Isa Maks)
     </td>
-<td>Download slides (verbs, nouns and adjectives combined): <a href="presentations/cornetto-workshop-2007-content-design.pdf">PDF</a>
+<td>Download slides (verbs, nouns and adjectives combined): <a href="{{ '/presentations/cornetto-workshop-2007-content-design.pdf' | relative_url }}">PDF</a>
 </td>
 </tr>
 <tr>
@@ -70,4 +70,4 @@ Adam Pease has led research in ontology, linguistics, and formal inference, incl
 
 * * *
 
-Last update: 22 October, 2008 p.vossen(at)let.vu.nl
+Last update: 22 October, 2008

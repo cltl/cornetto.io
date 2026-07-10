@@ -19,7 +19,7 @@ In addition, Cornetto developed a toolkit for the acquisition of new concepts an
 - Educational systems
 
 **Project Proposal**  
-[Project Proposal (PDF)](cornetto_proposal.pdf)
+Project Proposal (PDF)
 
 **News**  
 **Cornetto version 2.0**  

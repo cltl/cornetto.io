@@ -12,11 +12,11 @@ A license for the Cornetto results can be obtained from the [>TST-centrale](http
 
 The database has 70,371 synsets and 119,108 lexical units and is delivered as an XML database.  
 The following schema definitions as available for the data:  
-- [XSD for synsets](xsd/cdb_synset.xsd)  
-- [XSD for lexical units](xsd/cdb_lu.xsd)  
-- [XSD for Cornetto identifiers](xsd/cid.xsd)  
-- [XSD for the ontology](xsd/Ontology.xsd)  
-The most important document for the data is the final deliverable [D16 Cornetto documentation](docs/D16_Cornetto documentation \(V11\) v6.pdf).
+- XSD for synsets  
+- XSD for lexical units  
+- XSD for Cornetto identifiers  
+- XSD for the ontology  
+The most important document for the data is the final deliverable [D16 Cornetto documentation](deliverables/D16_Cornetto documentation \(V11\) v6.pdf).
 
 * * *
 

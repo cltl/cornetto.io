@@ -39,7 +39,7 @@ The following issues will be briefly introduced:
 </tr>
 <tr>
 <td>10:30 - 11:00</td>
-<td>Project overview (Piek Vossen) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-PV.ppt">ppt</a></td>
+<td>Project overview (Piek Vossen) ppt</td>
 </tr>
 <tr>
 <td>11:00 - 11:30</td>
@@ -47,7 +47,7 @@ The following issues will be briefly introduced:
 </tr>
 <tr>
 <td>11:30 - 12:30</td>
-<td>Basque SemCor (Eneko Agirre) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-EA.ppt">ppt</a></td>
+<td>Basque SemCor (Eneko Agirre) ppt</td>
 </tr>
 <tr>
 <td>12:30 - 13:30</td>
@@ -55,7 +55,7 @@ The following issues will be briefly introduced:
 </tr>
 <tr>
 <td>13:30 - 14:30</td>
-<td>SemCor (Helen Langone) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-HL.ppt">ppt</a> </td>
+<td>SemCor (Helen Langone) ppt </td>
 </tr>
 <tr>
 <td>14:30 - 14:45</td>
@@ -66,11 +66,11 @@ The following issues will be briefly introduced:
 <td>14:45 - 16:15</td>
 <td>
     Annotation tools for semantic tagging (Jakub Zavrel) <i>cancelled</i>
-    Machine learning from semantically tagged corpora (Antal van den Bosch) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-AB.ppt">ppt</a>
-    Community tagging and Wikipedia as additional resource (Maarten de Rijke) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-MR.pdf">ppt</a>
- Semantic Role Tagging in a Dutch Corpus (Paola Monachesi) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-PM.ppt">ppt</a>
-    The use of a semantically tagged corpus by Language Technologies Companies (Leonoor van der Beek) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-LB.ppt">ppt</a>
-    The use of a semantically tagged corpus for language and metaphor research (Trijntje Pasma) <a href="../../../cms/files/onderzoek/projectsites/cornetto/DSC-TP.ppt">ppt</a>
+    Machine learning from semantically tagged corpora (Antal van den Bosch) ppt
+    Community tagging and Wikipedia as additional resource (Maarten de Rijke) ppt
+ Semantic Role Tagging in a Dutch Corpus (Paola Monachesi) ppt
+    The use of a semantically tagged corpus by Language Technologies Companies (Leonoor van der Beek) ppt
+    The use of a semantically tagged corpus for language and metaphor research (Trijntje Pasma) ppt
 </td>
 </tr>
 <tr>

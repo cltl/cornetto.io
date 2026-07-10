@@ -34,10 +34,10 @@ The Cornetto Client software is provided "as is", without warranty of any kind t
 
 The Cornetto client is a plugin for the Mozilla Firefox web browser. Since Mozilla continuously releases updates for Firefox, the client will not work in recent versions. Since the project ended, there is no support to keep updating the client. We therefore prepared a portable version of Firefox with the client already installed for Windows users. You can run this version from the USB stick or you can copy it to a local drive. When launching the portable version, you will by-pass the version that is installed on your machine. Do the following (this only works for Windows):
 
-- 1. Download the following ZIP file: [FirefoxPortableDebVisDic.zip](FirefoxPortableDebVisDic.zip)  
+- 1. Download the following ZIP file: FirefoxPortableDebVisDic.zip  
 - 2. Unzip the file on a D-drive or your USB-stick.  
 - 3. Start Mozilla Firefox by double clicking the .exe file within the unpacked folder  
-- 4. Follow the instructions described in [Installation instructions for a portable Cornetto client](docs/PortableCornetto.pdf).
+- 4. Follow the instructions described in Installation instructions for a portable Cornetto client.
 
 <a id="contact"></a>
 
